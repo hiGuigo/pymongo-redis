@@ -12,7 +12,7 @@ As funcionalidades do **pymongo-redis** envolvem:
  1. Coletar o que existe nas collections disponíveis na base de dados original
  2. Popular a base de dados do Redis com o que foi coletado
  3. Atualizar a collection original com base nas alterações feitas através da interface do Redis
- 4. Login utilizando "expire" do Regis
+ 4. Login utilizando "expire" do Redis
  5. Validação do login
 
  ### Manual do usuário
